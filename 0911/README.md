@@ -26,18 +26,22 @@
 
 
 입력:
+
 ![2-2 2](https://github.com/kyksc/Web23/assets/144462053/b9c84010-ff29-4b2f-adf3-b9e8b9a4e0d3)
 
 출력:
+
 ![2-2 2p](https://github.com/kyksc/Web23/assets/144462053/fbb9c5d0-aff6-4dcd-9ec6-a230bfc9bd27)
 
 <h3>2-3</h3> 
 
 
 입력:
+
 ![2-3](https://github.com/kyksc/Web23/assets/144462053/e038434f-dfab-4623-8ca7-ca510a4987cd)
 
 출력:
+
 ![2-3p](https://github.com/kyksc/Web23/assets/144462053/5c417ae0-ab09-4c9e-9237-abebdc7158ab)
 
 
@@ -45,28 +49,32 @@
 
 
 입력:
+
 ![2-4 1](https://github.com/kyksc/Web23/assets/144462053/bf38e5fb-df35-479f-9f03-c96b71b60977)
 
 출력:
+
 ![2-4 1p](https://github.com/kyksc/Web23/assets/144462053/b644038a-6fed-4ee5-8965-5f2cb289979d)
 
 <h3>2-4.2</h3> 
 
 
 입력:
+
 ![2-4 2](https://github.com/kyksc/Web23/assets/144462053/eab465c0-69c3-4fc5-9675-6f7677a622d1)
 
 출력:
+
 ![2-4 2p](https://github.com/kyksc/Web23/assets/144462053/fa9dd956-2609-41cf-b693-a1f834a4866a)
 
 
 <h3>2-5</h3> 
 
 
-입력:
+입력:  
 ![2-5](https://github.com/kyksc/Web23/assets/144462053/db95d403-f582-42af-9526-40aca79d18cf)
 
-출력:
+출력:  
 ![2-5 p](https://github.com/kyksc/Web23/assets/144462053/97669762-776c-41ea-98ed-c6f969738877)
 
 
