@@ -1,11 +1,4 @@
 #2-1 
-
-<html>
-    <head>
-        <meta charset="UTP=8">
-        <title> 산길 </title>
-    </head>
-    <body>
         <h3>산길</h3>
         <hr>
         <p><strong>오늘 아침 일찍 산에 올랐다. 아침 온도는 15&#176;이었다. 가지고 간 물의 &#189;을 마셨다. 한참 올라 가는 도중에 약수터를 가리키는&#8624; 사인이 보였다.
@@ -21,5 +14,3 @@
                 밤에 홀로 산길을 간다
              </pre>
              <strong>&#169; Copyright(c) 황기태 All rights resrved. &#9742; 010-0000-9999</strong>
-    </body>
-</html>
