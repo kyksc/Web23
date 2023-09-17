@@ -1,5 +1,4 @@
 #2-1 
-![2-1](https://github.com/kyksc/Web23/assets/144462053/18cf627c-27e4-4425-ae8b-2e364ea89d3f)
 
 <!DOCTYPE html>
 <html>
