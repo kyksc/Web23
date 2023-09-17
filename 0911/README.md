@@ -1,4 +1,4 @@
-<h3>2-1</h3> 
+<h2>2-1</h2> 
 
 
 입력 : 특수문자들을 엔터티나 코드를 이용하여 출력하였다.
@@ -13,7 +13,7 @@
 
 ![2-1p](https://github.com/kyksc/Web23/assets/144462053/9ef3400b-a043-44a1-8c2d-b6c8db4fc336)
 
-<h3>2-2.1</h3> 
+<h2>2-2.1</h2> 
 
 입력:  
 ![2-2 1](https://github.com/kyksc/Web23/assets/144462053/4ed6c7c7-8566-4ba1-b9c4-6327765c10c4)
@@ -22,7 +22,7 @@
 출력:  
 ![2-2 1p](https://github.com/kyksc/Web23/assets/144462053/9d02b87d-c748-46e9-adc1-a2f2f19b5479)
 
-<h3>2-2.2</h3> 
+<h2>2-2.2</h2> 
 
 
 입력:
@@ -33,7 +33,7 @@
 
 ![2-2 2p](https://github.com/kyksc/Web23/assets/144462053/fbb9c5d0-aff6-4dcd-9ec6-a230bfc9bd27)
 
-<h3>2-3</h3> 
+<h2>2-3</h2> 
 
 
 입력:
@@ -45,7 +45,7 @@
 ![2-3p](https://github.com/kyksc/Web23/assets/144462053/5c417ae0-ab09-4c9e-9237-abebdc7158ab)
 
 
-<h3>2-4.1</h3> 
+<h2>2-4.1</h2> 
 
 
 입력:
@@ -56,7 +56,7 @@
 
 ![2-4 1p](https://github.com/kyksc/Web23/assets/144462053/b644038a-6fed-4ee5-8965-5f2cb289979d)
 
-<h3>2-4.2</h3> 
+<h2>2-4.2</h2> 
 
 
 입력:
@@ -68,7 +68,7 @@
 ![2-4 2p](https://github.com/kyksc/Web23/assets/144462053/fa9dd956-2609-41cf-b693-a1f834a4866a)
 
 
-<h3>2-5</h3> 
+<h2>2-5</h2> 
 
 
 입력:  
@@ -78,7 +78,7 @@
 ![2-5 p](https://github.com/kyksc/Web23/assets/144462053/97669762-776c-41ea-98ed-c6f969738877)
 
 
-<h3>2-6</h3> 
+<h2>2-6</h2> 
 
 
 입력:
@@ -91,7 +91,7 @@
 ![2-6p](https://github.com/kyksc/Web23/assets/144462053/18ef79bc-031a-4166-afaf-e55599ccc8b5)
 
 
-<h3>2-7</h3>
+<h2>2-7</h2>
 
 
 입력:
@@ -102,7 +102,7 @@
 
 ![2-7 p](https://github.com/kyksc/Web23/assets/144462053/5bbc6d9b-2973-462d-b8c8-b321ec2e405a)
 
-<h3>2-8</h3>
+<h2>2-8</h2>
 
 
 입력:
@@ -114,7 +114,7 @@
 ![2-8 p](https://github.com/kyksc/Web23/assets/144462053/75c25136-edc1-4d00-b44e-ed44d701ee79)
 
 
-<h3>open Challenge 2</h3> 
+<h2>open Challenge 2</h2> 
 
 
 입력:
