@@ -1,6 +1,8 @@
 #2-1 
 
-
+<html>
+    <head>
+        <meta charset="UTP=8">
         <title> 산길 </title>
     </head>
     <body>
@@ -20,3 +22,4 @@
              </pre>
              <strong>&#169; Copyright(c) 황기태 All rights resrved. &#9742; 010-0000-9999</strong>
     </body>
+</html>
