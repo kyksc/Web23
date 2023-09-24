@@ -1,8 +1,12 @@
 body{
-    background-color:white;
+    background-color:PapayaWhip;
+}
+a:link {
+    color : brown; 
+  }
+  a:visited  { 
+    color:gray; 
 }
 section {
-    background-color: white;
     float: left;
-    padding: 10px;
 }
