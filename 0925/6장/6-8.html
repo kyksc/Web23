@@ -1,21 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>자바스크립트 코드 위치</title>
-	<script type="text/javascript">
-		function over(obj) {
-			obj.style.background='yellow';
-		}
-		function out(obj) {
-			obj.style.background='white';
-		}
-	</script>
+    <title>eval()로 수식 계산</title>
 </head>
 <body>
-<h3>마우스를 올려보세요</h3>
+<h3>eval()로 수식 계산</h3>
 <hr>
-<div onmouseover="over(this)" onmouseout="out(this)">
-	여기에 마우스를 올리면 배경색이 노란색으로 변합니다.
-</div>
+ 
+<script>
+    var arr = prompt("수식 입력");
+    //var a = parseInt(arr);
+    var res1 = eval(arr);
+    document.write(arr+" = "+res1);
+</script>
 </body>
 </html>
