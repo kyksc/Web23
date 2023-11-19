@@ -5,7 +5,7 @@
 <br>![7](https://github.com/kyksc/Web23/assets/144462053/ef4c6cbb-3271-4996-beed-4cc735ac4531)
 <br>출력
 
-1. 배열을 내림차순으로 정렬하고 싶다. sort() 함수를 이용하여 revsort() 함수를 설계하고 테스트하시오.
+2. 배열을 내림차순으로 정렬하고 싶다. sort() 함수를 이용하여 revsort() 함수를 설계하고 테스트하시오.
    (hint : sort와 array_reverse함수 사용)
 <br>입력
 
