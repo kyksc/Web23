@@ -3,8 +3,9 @@
 <br>입력![7](https://github.com/kyksc/Web23/assets/144462053/e359c249-7082-42d2-b3ee-d586402ff327)
 
 
-<br>
-<br>출력![3](https://github.com/kyksc/Web23/assets/144462053/dce0bbc9-06f4-4afb-8809-ec6a32c5e1c9)
+<br>출력
+<br>![13](https://github.com/kyksc/Web23/assets/144462053/ab9d89de-9f1e-42b3-8873-0e4a41588e2a)
+
 
 
 
@@ -14,23 +15,23 @@
 <br>입력![8](https://github.com/kyksc/Web23/assets/144462053/ddfda59c-9ed0-41bc-941c-234cb14e9504)
 
 
-<br>
+<br>출력
 
-<br>출력![4](https://github.com/kyksc/Web23/assets/144462053/cdc208b7-aacb-4cda-8a93-e93f10fcf63b)
+<br>![4](https://github.com/kyksc/Web23/assets/144462053/cdc208b7-aacb-4cda-8a93-e93f10fcf63b)
 
 
 <br>
 
 3. 'exam.txt' 라는 파일을 열어 그 파일의 줄 수, 단어 수, 글자 수를 계산하는 프로그램을 작성하시오.
 
-<br>입력![9](https://github.com/kyksc/Web23/assets/144462053/37c3c2da-4317-4ab8-8618-65ef20adbf02)
+<br>입력
 
-<br>
+<br>![9](https://github.com/kyksc/Web23/assets/144462053/37c3c2da-4317-4ab8-8618-65ef20adbf02)
 
 
-<br>출력![5](https://github.com/kyksc/Web23/assets/144462053/122c4d3d-c658-414b-b316-ec2c42842df8)
+<br>출력
 
-<br>
+<br>![5](https://github.com/kyksc/Web23/assets/144462053/122c4d3d-c658-414b-b316-ec2c42842df8)
 
 <br>txt파일
 
