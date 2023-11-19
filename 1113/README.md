@@ -4,7 +4,8 @@
 
 
 <br>
-<br>출력![3](https://github.com/kyksc/Web23/assets/144462053/75b03825-b47b-463b-8b13-0cd8b5ff9554)
+<br>출력![3](https://github.com/kyksc/Web23/assets/144462053/dce0bbc9-06f4-4afb-8809-ec6a32c5e1c9)
+
 
 
 2. 배열을 내림차순으로 정렬하고 싶다. sort() 함수를 이용하여 revsort() 함수를 설계하고 테스트하시오.
@@ -55,7 +56,8 @@ Jung   Kwangju, Chunchon, Wonju
 
 
 <br>출력
-<br>
+<br>![12](https://github.com/kyksc/Web23/assets/144462053/91e9a559-7798-4fe6-acbb-aff57f3e7a07)
+
 
 5. 고객 정보가 들어있는 파일 client.txt가 있다. 이 파일에 저장된 자료의 구조는 다음과 같이 ASCII 형식으로 저장되어 있다고 가정하자.
 
