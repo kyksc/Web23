@@ -1,4 +1,4 @@
-
+<h3>http://kyksc.wuaze.com/</h3>
 1. for문을 이용하여 다음과 같은 출력을 하는 프로그램을 작성하시오.
 <br>입력![7](https://github.com/kyksc/Web23/assets/144462053/e359c249-7082-42d2-b3ee-d586402ff327)
 
