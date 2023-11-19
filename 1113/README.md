@@ -1,6 +1,12 @@
 <h3>http://kyksc.wuaze.com/</h3>
 1. for문을 이용하여 다음과 같은 출력을 하는 프로그램을 작성하시오.
-<br>입력![7](https://github.com/kyksc/Web23/assets/144462053/e359c249-7082-42d2-b3ee-d586402ff327)
+<br>입력
+
+<br>![14](https://github.com/kyksc/Web23/assets/144462053/2c34ca17-c61b-4a02-bde2-d98a92857acd)
+
+
+
+
 
 
 <br>출력
