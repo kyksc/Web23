@@ -4,7 +4,9 @@
 <p>
 span 태그에 css 속성을 부여할 때 ":"를 "="로 잘못 표기하여 오류가 발생하였습니다.
 color = blue; 를 color: blue; 라고 문법에 맞게 표기하면 오류를 해결했습니다.
-<img width="{80%}" src="{[https://github.com/kyksc/Web23/assets/144462053/019c63e4-a4eb-44ac-a6a3-9c0c99abe53e"]}"/>
+![1 (2)](https://github.com/kyksc/Web23/assets/144462053/fde049ec-305c-4988-8d42-2f027897847d)
+
+
 
 </p>
 # 실습과제 2번
