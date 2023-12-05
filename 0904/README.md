@@ -4,7 +4,7 @@
 <p>
 span 태그에 css 속성을 부여할 때 ":"를 "="로 잘못 표기하여 오류가 발생하였습니다.
 color = blue; 를 color: blue; 라고 문법에 맞게 표기하면 오류를 해결했습니다.
-![스크린샷 2023-12-05 225932](https://github.com/kyksc/Web23/assets/144462053/e7442a8d-8ee7-46be-935e-6ad9809caeff)
+(https://github.com/kyksc/Web23/assets/144462053/e7442a8d-8ee7-46be-935e-6ad9809caeff)
 
 </p>
 # 실습과제 2번
