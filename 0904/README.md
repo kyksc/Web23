@@ -7,7 +7,8 @@ color = blue; 를 color: blue; 라고 문법에 맞게 표기하면 오류를 �
   <img width= "100%" alt="image" src="https://github.com/kyksc/Web23/assets/144462053/814a6305-d081-4533-a65a-765e8e5f0b19">
 
 </p>
-# 실습과제 2번
+
+ # 실습과제 2번
  <img width= "100%" alt="image" src="https://github.com/kyksc/Web23/assets/144462053/31225916-83f5-4e12-9acd-c9fabaeb34ac">
 
 <br>
@@ -17,6 +18,7 @@ span {color: blue font-size: 20px;}를 span {color: blue; font-size: 20px;}로 �
    <img width= "100%" alt="image" src="https://github.com/kyksc/Web23/assets/144462053/b0c823d7-1cbc-4e45-b24c-46856921e0f7">
 
 </p>
+
 # 실습과제 3번
  <img width= "100%" alt="image" src="https://github.com/kyksc/Web23/assets/144462053/6ad1ebb9-10e3-42ff-ba75-cf8987d11ba2">
   <br>
@@ -25,6 +27,7 @@ hr 태그와 span 태그에 css 속성을 부여하는 코드 중 height: 5px;�
 color: blue;를 color: violet;으로 수정해주면 문제의 조건에 맞게 html파일을 작성했습니다.
    <img width= "100%" alt="image" src="https://github.com/kyksc/Web23/assets/144462053/2395bc5a-86c3-445d-a7fb-a6f387d287019">
 </p>
+
 # 실습과제 4번
  <img width= "100%" alt="image" src="https://github.com/kyksc/Web23/assets/144462053/35b918b9-ef75-45e7-aa20-7bb6461d61bc">
   <br>
@@ -34,6 +37,7 @@ document.getElementById("fig").src="Selfie.jpg";로 수정해주면 show() 함�
    <img width= "100%" alt="image" src="https://github.com/kyksc/Web23/assets/144462053/47d81d0e-76cb-4221-adf6-cc6580a00ca8">
 
 </p>
+
 # 오픈코드
  <img width= "100%" alt="image" src="https://github.com/kyksc/Web23/assets/144462053/fe754aaa-3e10-4b9f-9555-af2bfba1fad4">
 
