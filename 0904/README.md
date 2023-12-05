@@ -7,7 +7,7 @@ color = blue; 를 color: blue; 라고 문법에 맞게 표기하면 오류를 �
 ![1 (2)](https://github.com/kyksc/Web23/assets/144462053/fde049ec-305c-4988-8d42-2f027897847d)
 
 
-
+https://github.com/kyksc/Web23/issues/1#issue-2026252007
 </p>
 # 실습과제 2번
 ![1-2](https://github.com/kyksc/Web23/assets/144462053/46dee02a-4f04-4b78-b3dc-8ea400a8f3d9)
