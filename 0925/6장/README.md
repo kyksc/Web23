@@ -20,8 +20,9 @@
 
 ![6-3 2](https://github.com/kyksc/Web23/assets/144462053/96b31880-e64e-452d-99c5-d68eef609a41)
 # 실습과제 6-4
-![스크린샷 2023-12-07 161612](https://github.com/kyksc/Web23/assets/144462053/3864b7c1-11ea-46b0-8812-54abf6049109)
 ![스크린샷 2023-12-07 161603](https://github.com/kyksc/Web23/assets/144462053/be1ad140-fd5d-4b4a-85d3-4a5dc16b3bf3)
+![스크린샷 2023-12-07 161612](https://github.com/kyksc/Web23/assets/144462053/3864b7c1-11ea-46b0-8812-54abf6049109)
+
 
 ![6-4](https://github.com/kyksc/Web23/assets/144462053/b4f75318-9d25-41d1-87ab-b67f146ad98e)
 # 실습과제 6-5
