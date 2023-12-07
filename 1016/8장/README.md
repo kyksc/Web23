@@ -45,7 +45,8 @@
 
 ![8](https://github.com/kyksc/Web23/assets/144462053/8b77f9a6-1503-47e9-af7c-e3895a3c450b)
 # 실습코드 8-9
-![스크린샷 2023-12-07 172153](https://github.com/kyksc/Web23/assets/144462053/00fbe7a3-5eb1-4e10-a492-204572416ece)
+![스크린샷 2023-12-07 172147](https://github.com/kyksc/Web23/assets/144462053/dd0d3850-651d-495c-9935-f3d2f46d9d55)
+
 
 ![9](https://github.com/kyksc/Web23/assets/144462053/78782d4b-4557-4a14-8dd3-16b416c67a75)
 # 실습코드 8-10
